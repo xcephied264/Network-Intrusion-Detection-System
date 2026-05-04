@@ -1,0 +1,30 @@
+
+Linear SVM Results
+              precision    recall  f1-score   support
+
+           0       0.86      0.97      0.91     11245
+           1       0.96      0.84      0.90     11299
+
+    accuracy                           0.90     22544
+   macro avg       0.91      0.90      0.90     22544
+weighted avg       0.91      0.90      0.90     22544
+
+Accuracy: 0.9038768630234209
+Precision: 0.9629892516730886
+Recall: 0.8405168598991061
+F1-score: 0.8975946316336657
+
+Random Forest Results
+              precision    recall  f1-score   support
+
+           0       0.88      0.99      0.93     11245
+           1       0.99      0.86      0.92     11299
+
+    accuracy                           0.93     22544
+   macro avg       0.93      0.93      0.93     22544
+weighted avg       0.93      0.93      0.93     22544
+
+Accuracy: 0.9261000709723208
+Precision: 0.9914294459749006
+Recall: 0.8599876095229666
+F1-score: 0.921042654028436
